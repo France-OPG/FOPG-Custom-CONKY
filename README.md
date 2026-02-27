@@ -10,4 +10,4 @@
 Télécharger l'archive du projet, coller le fichier "conky.conf" dans le dossiers de conky (souvent par défault : "/etc/conky/")
 si vous avez deja un "conky.conf" vous pouvez copier le contenue de RPG-custom-CONKY dans le votre :) !
 
-&copy; 2021 [ResPinGuy](http://fopg.fr)
+&copy; 2021 [France-OPG](http://fopg.fr)
